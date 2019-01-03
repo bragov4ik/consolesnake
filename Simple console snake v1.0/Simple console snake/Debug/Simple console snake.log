@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\brago\source\repos\simple console snake\simple console snake\source.cpp(309): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\brago\source\repos\simple console snake\simple console snake\source.cpp(377): error C3861: Sleep: идентификатор не найден
